@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T20:00:44.901Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="1JdwAziXJmj14JkXNC8m" version="13.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T20:05:42.308Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="qYM4vT6_FuRpqREq5tge" version="13.3.4" type="github">
   <diagram id="YBWVYPmLeSRwuI61tk2d" name="Page-1">
-    <mxGraphModel dx="6887" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="3270" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-1" target="YBXRsWnwAlxHhVe6IXgZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;เริ่ม&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;เริ่ม&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="370" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-3" target="YBXRsWnwAlxHhVe6IXgZ-8" edge="1">
@@ -42,7 +42,7 @@
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-12" value="&lt;font style=&quot;font-size: 23px&quot;&gt;นำด้านที่สั้นสุดของ กระดาษ มาหาร ด้วยด้านที่สั้นสุดของ ถุงกระดาษ แล้วทำเป็นจำนวนเต็ม&lt;br&gt;ปัดเศษ ทศนิยมทิ้ง&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-415" y="1900" width="560" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-13" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-13" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="330" y="1060" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-17" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jHjW-7iBzdXLewrsff_E-4" target="YBXRsWnwAlxHhVe6IXgZ-12" edge="1">
@@ -55,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-20" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-20" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="330" y="1400" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-21" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-21" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="-235" y="1740" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-22" target="jHjW-7iBzdXLewrsff_E-1">
@@ -71,7 +71,7 @@
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-22" value="&lt;font style=&quot;font-size: 23px&quot;&gt;นำด้านที่ยาวสุดของ กระดาษ มาหาร ด้วยด้านที่ยาวสุดของ ถุงกระดาษ แล้วทำเป็นจำนวนเต็ม ปัดเศษ ทศนิยมทิ้ง&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="1900" width="560" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-24" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-24" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="1065" y="1730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-25" target="YBXRsWnwAlxHhVe6IXgZ-56" edge="1">
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YBXRsWnwAlxHhVe6IXgZ-32" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=34;" parent="1" vertex="1">
           <mxGeometry x="345" y="3100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-39" edge="1">
@@ -159,10 +159,10 @@
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="375" y="2960" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VVT0aFdjz3h0jSFO-QEv-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VVT0aFdjz3h0jSFO-QEv-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="1065" y="1150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VVT0aFdjz3h0jSFO-QEv-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VVT0aFdjz3h0jSFO-QEv-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="1075" y="870" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-1" value="&lt;font style=&quot;font-size: 32px&quot;&gt;นำ สอง กรณีมาบวกกัน&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -264,8 +264,8 @@
         <mxCell id="jHjW-7iBzdXLewrsff_E-50" value="&lt;h2&gt;&lt;span style=&quot;font-size: 45px&quot;&gt;&lt;u&gt;&lt;b&gt;ตัวอย่าง การหมุน:&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="3647" width="430" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="jHjW-7iBzdXLewrsff_E-51" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#0000ff&quot;&gt;คำนวนจำนวนชิ้นที่ได้ จากกระดาษแผ่นนั้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=6" vertex="1" parent="1">
-          <mxGeometry x="-380" y="480" width="1650" height="270" as="geometry" />
+        <mxCell id="jHjW-7iBzdXLewrsff_E-51" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#0000ff&quot;&gt;คำนวนจำนวนชิ้นที่ผลิตถุงกระดาษได้ จากกระดาษแผ่นจะใช้&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="-442.5" y="370" width="1745" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
