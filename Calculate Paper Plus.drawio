@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T19:45:18.351Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="l3vz77eWBmls6NH8fXIe" version="13.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T19:47:41.364Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="q6El5tzegw4TV5pZ4c_8" version="13.3.4" type="github">
   <diagram id="YBWVYPmLeSRwuI61tk2d" name="Page-1">
-    <mxGraphModel dx="3270" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="4572" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;เริ่ม&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="388" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-3" target="YBXRsWnwAlxHhVe6IXgZ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,243 +17,243 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;นำ size กระดาษมาด้านที่ยาวสุดมาเทียบ เช็คว่า ยาวกว่าเท่ากับ ด้านที่ยาวสุดของถุงกระดาษ จริง?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="48" y="610" width="800" height="200" as="geometry" />
+          <mxGeometry x="30" y="840" width="800" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-8" target="jHjW-7iBzdXLewrsff_E-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="448" y="1230" as="targetPoint" />
+            <mxPoint x="430" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-8" target="YBXRsWnwAlxHhVe6IXgZ-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1343" y="990" />
+              <mxPoint x="1325" y="1220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-8" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;นำ size กระดาษมาด้านที่สั้นสุดมาเทียบ เช็คว่า ยาวกว่าเท่ากับ ด้านที่สั้นสุดของถุงกระดาษ จริง?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="850" width="690" height="280" as="geometry" />
+          <mxGeometry x="85" y="1080" width="690" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="YBXRsWnwAlxHhVe6IXgZ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1360" as="sourcePoint" />
+            <mxPoint x="472" y="1590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-12" value="&lt;font style=&quot;font-size: 23px&quot;&gt;นำด้านที่สั้นสุดของ กระดาษ มาหาร ด้วยด้านที่สั้นสุดของ ถุงกระดาษ แล้วทำเป็นจำนวนเต็ม&lt;br&gt;ปัดเศษ ทศนิยมทิ้ง&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-397" y="1670" width="560" height="170" as="geometry" />
+          <mxGeometry x="-415" y="1900" width="560" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-13" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="348" y="830" width="40" height="20" as="geometry" />
+          <mxGeometry x="330" y="1060" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-17" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jHjW-7iBzdXLewrsff_E-4" target="YBXRsWnwAlxHhVe6IXgZ-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="143" y="1370" as="sourcePoint" />
-            <mxPoint x="63" y="1360" as="targetPoint" />
+            <mxPoint x="125" y="1600" as="sourcePoint" />
+            <mxPoint x="45" y="1590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-117" y="1360" />
-              <mxPoint x="-117" y="1400" />
+              <mxPoint x="-135" y="1590" />
+              <mxPoint x="-135" y="1630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-20" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="348" y="1170" width="40" height="20" as="geometry" />
+          <mxGeometry x="330" y="1400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-21" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-217" y="1510" width="40" height="20" as="geometry" />
+          <mxGeometry x="-235" y="1740" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-22" target="jHjW-7iBzdXLewrsff_E-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="993" y="2040" />
+              <mxPoint x="975" y="2270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-22" value="&lt;font style=&quot;font-size: 23px&quot;&gt;นำด้านที่ยาวสุดของ กระดาษ มาหาร ด้วยด้านที่ยาวสุดของ ถุงกระดาษ แล้วทำเป็นจำนวนเต็ม ปัดเศษ ทศนิยมทิ้ง&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="713" y="1670" width="560" height="170" as="geometry" />
+          <mxGeometry x="695" y="1900" width="560" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-24" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="1500" width="40" height="20" as="geometry" />
+          <mxGeometry x="1065" y="1730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-25" target="YBXRsWnwAlxHhVe6IXgZ-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-25" value="&lt;font style=&quot;font-size: 27px&quot;&gt;จะได้จำนวนของ ถุงกระดาษ ที่ผลิตจาก กระดาษ ชิ้นนั้น&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10.5" y="2270" width="825" height="210" as="geometry" />
+          <mxGeometry x="-7.5" y="2500" width="825" height="210" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="YBXRsWnwAlxHhVe6IXgZ-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="423" y="2130" as="sourcePoint" />
+            <mxPoint x="405" y="2360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-12" target="jHjW-7iBzdXLewrsff_E-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-247" y="2100" as="sourcePoint" />
-            <mxPoint x="393" y="1990" as="targetPoint" />
+            <mxPoint x="-265" y="2330" as="sourcePoint" />
+            <mxPoint x="375" y="2220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-117" y="2040" />
+              <mxPoint x="-135" y="2270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="2870" width="120" height="80" as="geometry" />
+          <mxGeometry x="345" y="3100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="2750" as="targetPoint" />
+            <mxPoint x="435" y="2980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2133" y="1000" />
-              <mxPoint x="2133" y="2540" />
-              <mxPoint x="553" y="2540" />
-              <mxPoint x="553" y="2750" />
+              <mxPoint x="2115" y="1230" />
+              <mxPoint x="2115" y="2770" />
+              <mxPoint x="535" y="2770" />
+              <mxPoint x="535" y="2980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1343" y="950" width="80" height="80" as="geometry" />
+          <mxGeometry x="1325" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1613" y="1720" width="420" height="420" as="geometry" />
+          <mxGeometry x="1595" y="1950" width="420" height="420" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-44" value="&lt;font style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1613" y="1720" width="310" height="370" as="geometry" />
+          <mxGeometry x="1595" y="1950" width="310" height="370" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-45" value="&lt;span style=&quot;font-size: 40px&quot;&gt;กระดาษ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1823" y="2100" width="40" height="20" as="geometry" />
+          <mxGeometry x="1805" y="2330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-46" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1453" y="1880" as="sourcePoint" />
-            <mxPoint x="1613" y="1650" as="targetPoint" />
+            <mxPoint x="1435" y="2110" as="sourcePoint" />
+            <mxPoint x="1595" y="1880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1473" y="1755" />
-              <mxPoint x="1473" y="1650" />
+              <mxPoint x="1455" y="1985" />
+              <mxPoint x="1455" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-47" value="&lt;font style=&quot;font-size: 39px&quot;&gt;ตัวอย่าง:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1673" y="1640" width="40" height="20" as="geometry" />
+          <mxGeometry x="1655" y="1870" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1032" y="1860" width="450" height="450" as="geometry" />
+          <mxGeometry x="-1050" y="2090" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-50" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1027" y="1860" width="440" height="290" as="geometry" />
+          <mxGeometry x="-1045" y="2090" width="440" height="290" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-51" value="&lt;span style=&quot;font-size: 40px&quot;&gt;กระดาษ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-827" y="2200" width="40" height="20" as="geometry" />
+          <mxGeometry x="-845" y="2430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-52" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 39px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;ตัวอย่าง:&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-867" y="1720" width="160" height="40" as="geometry" />
+          <mxGeometry x="-885" y="1950" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-55" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="YBXRsWnwAlxHhVe6IXgZ-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-707" y="1755" as="sourcePoint" />
-            <mxPoint x="-607" y="1650" as="targetPoint" />
+            <mxPoint x="-725" y="1985" as="sourcePoint" />
+            <mxPoint x="-625" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YBXRsWnwAlxHhVe6IXgZ-56" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="423" y="2870" as="targetPoint" />
+            <mxPoint x="405" y="3100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YBXRsWnwAlxHhVe6IXgZ-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="393" y="2730" width="60" height="60" as="geometry" />
+          <mxGeometry x="375" y="2960" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VVT0aFdjz3h0jSFO-QEv-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="920" width="40" height="20" as="geometry" />
+          <mxGeometry x="1065" y="1150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VVT0aFdjz3h0jSFO-QEv-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;FALSE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1093" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="1075" y="870" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-1" value="&lt;font style=&quot;font-size: 32px&quot;&gt;นำ สอง กรณีมาบวกกัน&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1950" width="490" height="180" as="geometry" />
+          <mxGeometry x="172" y="2180" width="490" height="180" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="408" y="1320" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="1550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="3130" width="807" height="807" as="geometry" />
+          <mxGeometry x="-408" y="3340" width="807" height="807" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-6" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 1&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-887" y="3130" width="307" height="380" as="geometry" />
+          <mxGeometry x="-405" y="3340" width="307" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-7" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 2&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="3130" width="307" height="380" as="geometry" />
+          <mxGeometry x="-98" y="3340" width="307" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-8" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 3&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-887" y="3510" width="307" height="380" as="geometry" />
+          <mxGeometry x="-405" y="3720" width="307" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-9" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 4&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="3510" width="307" height="380" as="geometry" />
+          <mxGeometry x="-98" y="3720" width="307" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-10" value="&lt;font style=&quot;font-size: 57px&quot;&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;Case 1&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="2380" width="230" height="20" as="geometry" />
+          <mxGeometry x="-1008" y="2610" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-11" value="&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 57px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 57px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;Case 2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="2080" width="210" height="60" as="geometry" />
+          <mxGeometry x="1362" y="2310" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-12" value="&lt;font style=&quot;font-size: 57px&quot;&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;Case 3&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="3970" width="230" height="20" as="geometry" />
+          <mxGeometry x="-488" y="4180" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-13" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 40px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;กระดาษ&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="3130" width="807" height="807" as="geometry" />
+          <mxGeometry x="612" y="3340" width="807" height="807" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-14" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 1&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="130" y="3130" width="380" height="307" as="geometry" />
+          <mxGeometry x="612" y="3340" width="380" height="307" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-15" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 2&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="510" y="3130" width="380" height="307" as="geometry" />
+          <mxGeometry x="992" y="3340" width="380" height="307" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-16" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 3&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="130" y="3437" width="380" height="307" as="geometry" />
+          <mxGeometry x="612" y="3647" width="380" height="307" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-17" value="&lt;span style=&quot;font-size: 40px&quot;&gt;ถุงกระดาษ 4&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="510" y="3437" width="380" height="307" as="geometry" />
+          <mxGeometry x="992" y="3647" width="380" height="307" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-20" value="&lt;font style=&quot;font-size: 57px&quot;&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;Case 4&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="103" y="3970" width="230" height="20" as="geometry" />
+          <mxGeometry x="585" y="4180" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-24" value="&lt;span style=&quot;font-size: 40px&quot;&gt;กระดาษ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="3840" width="40" height="20" as="geometry" />
+          <mxGeometry x="982" y="4050" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-27" value="&lt;span style=&quot;font-size: 40px&quot;&gt;กระดาษ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="3840" width="40" height="20" as="geometry" />
+          <mxGeometry x="292" y="4050" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-28" value="&lt;font style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;(0)&amp;nbsp; &amp;nbsp; +&amp;nbsp; &amp;nbsp; ( 10/7 : 1 ) = 1&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 39px&quot;&gt;ชิ้น&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="2320" width="510" height="200" as="geometry" />
+          <mxGeometry x="-748" y="2550" width="510" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-29" value="&lt;font style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;( 12/9 : 1 )&amp;nbsp; &amp;nbsp; +&amp;nbsp; &amp;nbsp; (0)&amp;nbsp; &amp;nbsp;= 0 ชิ้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1553" y="2100" width="580" height="200" as="geometry" />
+          <mxGeometry x="1535" y="2330" width="580" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-30" value="&lt;font style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;( 30/13 : 2 ) + ( 27/12 : 2 ) = 4 ชิ้น&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-757" y="3937" width="647" height="200" as="geometry" />
+          <mxGeometry x="-275" y="4147" width="647" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-31" value="&lt;font style=&quot;font-size: 39px&quot;&gt;( 27/12 : 2 ) + ( 30/13 : 2 )&amp;nbsp; = 4 ชิ้น&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3960" width="640" height="200" as="geometry" />
+          <mxGeometry x="810" y="3940" width="640" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-32" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านสั้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="2440" width="220" height="120" as="geometry" />
+          <mxGeometry x="-578" y="2670" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-34" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านสั้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="4030" width="220" height="120" as="geometry" />
+          <mxGeometry y="4010" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-35" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านสั้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="313" y="4020" width="220" height="120" as="geometry" />
+          <mxGeometry x="795" y="4230" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-36" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านยาว&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="573" y="4017" width="220" height="120" as="geometry" />
+          <mxGeometry x="1055" y="4227" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-37" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านยาว&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="4030" width="220" height="120" as="geometry" />
+          <mxGeometry x="-240" y="4010" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-39" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านยาว&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="2440" width="220" height="120" as="geometry" />
+          <mxGeometry x="-788" y="2670" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-42" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านยาว&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1583" y="2240" width="220" height="120" as="geometry" />
+          <mxGeometry x="1565" y="2470" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHjW-7iBzdXLewrsff_E-43" value="&lt;font style=&quot;font-size: 54px&quot;&gt;ด้านสั้น&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1823" y="2240" width="220" height="120" as="geometry" />
+          <mxGeometry x="1805" y="2470" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
